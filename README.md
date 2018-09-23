@@ -15,11 +15,11 @@ You can see color codes [here](Colors/Palette.md).
 
 ## Install instructions
 
-- [Visual Studio](Visual%20Studio/README.md)
-- [Visual Studio Code](Visual%20Studio%20Code/README.md)
-- [JetBrains IDE](JetBrains%20IDE/README.md)
-- [Konsole](Konsole/README.md)
-- [Windows CMD](Windows%20Terminal%20-%20CMD/README.md)
+- [Visual Studio](Visual%20Studio)
+- [Visual Studio Code](Visual%20Studio%20Code)
+- [JetBrains IDE](JetBrains%20IDE)
+- [Konsole](Konsole)
+- [Windows CMD](Windows%20Terminal%20-%20CMD)
 
 ## Copyright and license
 
