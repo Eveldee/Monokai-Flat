@@ -1,5 +1,5 @@
 <Themes>
-  <Theme Name="Monokai-Flat" GUID="{22acf353-8a6a-409c-9c51-1cd1e54497d2}">
+  <Theme Name="Monokai-Flat" GUID="{c1d0d1dd-b323-40ba-a3cf-b5573d0c8804}">
     <Category Name="ACDCOverview" GUID="{c8887ac6-3c60-4209-9d69-8f4c12a60044}">
       <Color Name="Body">
         <Background Type="CT_RAW" Source="FF252526" />
@@ -1348,7 +1348,7 @@
         <Foreground Type="CT_RAW" Source="FF7CA5A0" />
       </Color>
       <Color Name="CurrentLineActiveFormat">
-        <Background Type="CT_RAW" Source="FF49483E" />
+        <Background Type="CT_RAW" Source="FF464F5E" />
         <Foreground Type="CT_RAW" Source="FFEAEAF2" />
       </Color>
       <Color Name="deltadiff.remove.line">
@@ -8061,7 +8061,7 @@
       </Color>
       <Color Name="Visible Whitespace">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF144852" />
+        <Foreground Type="CT_RAW" Source="FF292E36" />
       </Color>
     </Category>
     <Category Name="Text Editor Text Marker Items" GUID="{ff349800-ea43-46c1-8c98-878e78f46501}">
