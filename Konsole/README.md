@@ -2,7 +2,7 @@
 
 ![Preview](Preview.png)
 
-View on [KDE Store](https://store.kde.org/p/1244183/)
+> View on [KDE Store](https://store.kde.org/p/1244183/)
 
 ## Installation
 
