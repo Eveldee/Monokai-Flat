@@ -19,6 +19,7 @@ You can see color codes [here](Colors/Palette.md).
 - [Visual Studio Code](Visual%20Studio%20Code)
 - [JetBrains IDE](JetBrains%20IDE)
 - [Konsole](Konsole)
+- [Windows Terminal](Windows%20Terminal)
 - [Windows CMD](Windows%20Terminal%20-%20CMD)
 
 ## Copyright and license
