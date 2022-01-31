@@ -137,7 +137,8 @@
                         "punctuation.definition.keyword",
                         "storage.modifier",
                         "storage.type",
-                        "variable.language"
+                        "variable.language",
+                        "variable.language.this"
                     ],
                     "settings": {
                         "foreground": "#FB6060",
