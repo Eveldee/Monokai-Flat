@@ -29,7 +29,7 @@ Cursor color _(orange)_ is defined by the property `"editorCursor.foreground": "
 
 You can change the purple separation color using the following properties:
 
-```json
+```jsonc
 "activityBar.border": "#B287FF",
 ...
 "sideBar.border": "#B287FF",
@@ -56,7 +56,7 @@ To change accent color, find `// Accent color` in the settings, select all accen
 
 This theme has not been tested on [Community Material Theme][Community Material Theme] but it should work by just changing
 
-```json
+```jsonc
 // Workbench Theme
 "workbench.colorCustomizations": {
     "[Material Theme]": {
@@ -64,7 +64,7 @@ This theme has not been tested on [Community Material Theme][Community Material 
 
 To
 
-```json
+```jsonc
 // Workbench Theme
 "workbench.colorCustomizations": {
     "[Community Material Theme]": {
