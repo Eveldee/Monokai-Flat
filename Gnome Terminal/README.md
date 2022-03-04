@@ -21,14 +21,14 @@ Download using the [GitHub .zip download](https://github.com/Eveldee/Monokai-Fla
 1. You will need the `dconf` command:
 
 ```bash 
-$ sudo apt-get install dconf-cli 
+sudo apt install dconf-cli 
 ```
 
 2. Then you can run the installation script:
 
 ```bash
-$ cd gnome-terminal
-$ ./install.sh
+cd gnome-terminal
+./install.sh
 ```
 
 For more info, visit [
