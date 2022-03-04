@@ -2,7 +2,7 @@
     // Workbench Theme
     "workbench.colorCustomizations": {
         "[Material Theme]": {
-            // Generaly
+            // General
             "selection.background": "#B0BBCC",
             // Activity bar (Left: Debug, ext)
             "activityBar.background": "#292E36",
@@ -95,7 +95,8 @@
             "editorWidget.border": "#64FFDA"
         }
     },
-    // TextMate Syntax Theme
+
+    // Syntax Theme
     "editor.tokenColorCustomizations": {
         "[Material Theme]": {
             "textMateRules": [
