@@ -6,12 +6,13 @@ A material monokai color scheme for Visual Studio, Visual Studio Code, JetBrains
 
 ## Colors
 
-Material-Flat use the following colors:  
+**Material-Flat** use the following colors:
+
 ![Colors](Colors/Palette.png)  
 >The full palette can be imported in [Gimp](https://www.gimp.org/) or [Gpick](http://www.gpick.org/).  
-See [palette.gpa](Color/palette.gpa) and [palette.gpl](Colors/palette.gpl)
+See [palette.gpa](Colors/palette.gpa) and [palette.gpl](Colors/palette.gpl)
 
-You can see color codes [here](Colors/Palette.md).
+You can see **color codes** [here](Colors/Palette.md).
 
 ## Install instructions
 
@@ -24,5 +25,5 @@ You can see color codes [here](Colors/Palette.md).
 
 ## Copyright and license
 
-This theme can be used freely in every projects, commercial or not as it is
+This theme can be used freely in any project, commercial or not as it is
 licensed under the [Creative Commons Zero v1.0 Universal](LICENSE) license.
